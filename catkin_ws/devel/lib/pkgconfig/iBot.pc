@@ -1,0 +1,8 @@
+prefix=/home/vihaan/PycharmProjects/BasicROSProject/catkin_ws/devel
+
+Name: iBot
+Description: Description of iBot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
